@@ -55,7 +55,7 @@ Rol: ADMIN
 
 ## 🛠️ Tecnologías
 
-* Java 17+
+* Java 21+
 * Spring Boot 3
 * Spring Security
 * Maven
